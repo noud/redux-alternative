@@ -1,5 +1,5 @@
 {
-  "name": "01-hello-redux",
+  "name": "redux-alternative",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
